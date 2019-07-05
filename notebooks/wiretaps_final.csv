@@ -1,0 +1,27 @@
+State,Latitude,Longitude,properties.DISTRICT_x,Orders_x,properties.DISTRICT_y,Orders_y,properties.DISTRICT_x,Orders_x,properties.DISTRICT_y,Orders_y
+Alaska,61.370716,-152.404419,Alaska,2,Alaska,2,Alaska,2,Alaska,2
+Arizona,33.729759,-111.431221,Arizona,6,Arizona,6,Arizona,6,Arizona,6
+California,36.116203000000006,-119.681564,California,349,California,349,California,349,California,349
+Colorado,39.059810999999996,-105.311104,Colorado,105,Colorado,105,Colorado,105,Colorado,105
+Connecticut,41.597782,-72.755371,Connecticut,1,Connecticut,1,Connecticut,1,Connecticut,1
+Florida,27.766278999999997,-81.68678299999999,Florida,67,Florida,67,Florida,67,Florida,67
+Georgia,33.040619,-83.643074,Georgia,23,Georgia,23,Georgia,23,Georgia,23
+Hawaii,21.094317999999998,-157.49833700000002,Hawaii,6,Hawaii,6,Hawaii,6,Hawaii,6
+Illinois,40.349457,-88.986137,Illinois,4,Illinois,4,Illinois,4,Illinois,4
+Indiana,39.849426,-86.258278,Indiana,5,Indiana,5,Indiana,5,Indiana,5
+Kansas,38.5266,-96.726486,Kansas,1,Kansas,1,Kansas,1,Kansas,1
+Maryland,39.063946,-76.80210100000001,Maryland,27,Maryland,27,Maryland,27,Maryland,27
+Massachusetts,42.230171,-71.530106,Massachusetts,6,Massachusetts,6,Massachusetts,6,Massachusetts,6
+Nevada,38.313515,-117.055374,Nevada,215,Nevada,215,Nevada,215,Nevada,215
+New Jersey,40.298904,-74.521011,New Jersey,87,New Jersey,87,New Jersey,87,New Jersey,87
+New York,42.165726,-74.948051,New York,324,New York,324,New York,324,New York,324
+North Carolina,35.630066,-79.80641899999999,North Carolina,82,North Carolina,82,North Carolina,82,North Carolina,82
+Oklahoma,35.565342,-96.928917,Oklahoma,1,Oklahoma,1,Oklahoma,1,Oklahoma,1
+Oregon,44.572021,-122.07093799999998,Oregon,1,Oregon,1,Oregon,1,Oregon,1
+Pennsylvania,40.590752,-77.209755,Pennsylvania,128,Pennsylvania,128,Pennsylvania,128,Pennsylvania,128
+South Dakota,44.299782,-99.438828,South Dakota,1,South Dakota,1,South Dakota,1,South Dakota,1
+Tennessee,35.747845,-86.69234499999999,Tennessee,27,Tennessee,27,Tennessee,27,Tennessee,27
+Texas,31.054486999999998,-97.563461,Texas,1,Texas,1,Texas,1,Texas,1
+Virginia,37.769337,-78.16996800000001,Virginia,5,Virginia,5,Virginia,5,Virginia,5
+West Virginia,38.491226,-80.954453,West Virginia,4,West Virginia,4,West Virginia,4,West Virginia,4
+Wyoming,42.755966,-107.30248999999999,Wyoming,2,Wyoming,2,Wyoming,2,Wyoming,2
